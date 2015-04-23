@@ -1,4 +1,4 @@
-(defproject many-worlds/dejong "0.1.0-SNAPSHOT"
+(defproject many-worlds/dejong "0.1.0"
   :description "An example of using the many worlds quil library."
   :url "https://github.com/aperiodic/many-worlds"
   :license {:name "Eclipse Public License"
